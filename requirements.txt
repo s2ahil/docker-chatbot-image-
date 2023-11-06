@@ -1,0 +1,9 @@
+pip==22.0.4
+fastapi
+protobuf
+pydantic
+google
+uvicorn
+google-generativeai
+python-multipart
+mtranslate
